@@ -1,4 +1,4 @@
-# IITM PDSA T1 2024
+# IITM PDSA, T1 2024
 
 Notes and codes for the course.
 
